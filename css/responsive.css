@@ -1,0 +1,485 @@
+ @media (max-width:1650px) {
+  .container-fluid {
+    max-width: 1400px;
+    padding: 0 40px;
+}
+ .bun {
+    padding: 10px 24px;
+    font-size: 14px;
+}
+ .header {
+    padding: 100px 0 90px;
+}
+ .Elon h2 {
+    font-size: 45px;
+}   
+.Elon p {
+    font-size: 14px;
+    padding: 14px 35px 17px 0px;
+}
+.Elon {
+    text-align: start;
+    padding-top: 60px;
+}
+.chack {
+    padding: 10px 24px;
+    font-size: 14px;
+}
+.chack2 {
+    padding: 10px 24px;
+     font-size: 14px;
+}
+.head {
+    font-size: 45px;
+}
+.First {
+    padding: 80px 0;
+}
+.commm {
+    font-size: 18px;
+}
+.inn {
+    padding: 29px 34px 20px 20px;
+}
+.Value img {
+    max-width: 600px;
+}
+.ulti {
+    font-size: 12px;
+}
+.Nomic {
+    font-size:45px;
+    padding: 0px 0 38px;
+}
+.second {
+    padding: 208px 0;
+}
+.box img {
+    max-width: 110px;
+}
+.box h3 {
+    font-size: 15px;
+}
+.box p {
+    font-size: 12px;
+    line-height: 19px;
+}
+.zoom img {
+    width: 100%;
+    max-width: 273px;
+}
+.zoom {
+    margin-top: -289px;
+    margin-left: 479px;
+}
+
+section.third {
+    padding: 120px 0 66px;
+}
+.Roadmap {
+    font-size:45px;
+}
+ul.con li {
+    font-size: 13px;
+}
+.foo img {
+    max-width: 160px;
+}
+.social_list {
+  /*  min-height: 6rem;*/
+    z-index: 5;
+}
+.chal a {
+    font-size: 14px;
+}
+span.Rights {
+    font-size: 13px;
+    padding: 27px 0;
+}
+.chal {
+    padding: 15px;
+}
+.line {
+    background-color: #000D46;
+}
+.main-d::before {
+    width: 14px;
+    left: -33px;
+}
+
+  }
+
+@media (max-width:1367px) {
+.container-fluid {
+    max-width: 1200px;
+}
+.my-scrolled-navbar .navbar-nav .nav-item .nav-link {
+    padding: 0 38px 0 0;
+    font-size: 14px;
+}
+.head {
+    font-size: 36px;
+    padding-bottom: 40px;
+}
+.Value img {
+    max-width: 450px;
+}
+.commm {
+    font-size: 14px;
+}
+.inn {
+    padding: 20px 30px 14px 18px;
+}
+.Nomic {
+    font-size: 36px;
+}
+.box img {
+    max-width: 90px;
+}
+.box h3 {
+    font-size: 14px;
+}
+.box p {
+    font-size: 12px;
+    line-height: 18px;
+    width: 100%;
+}
+.zoom {
+    margin-top: -269px;
+    margin-left: 431px;
+}
+.zoom img {
+    max-width: 235px;
+}
+.m-box {
+    width: 100%;
+    max-width: 500px;
+}
+
+.m-box ul.con {
+    padding: 19px 0 20px 47px;
+    line-height: 25px;
+    width: 100%;
+    border-radius: 50px;
+}
+.main-d::before {
+    width: 11px;
+    left: -40px;
+}
+.m-box::after {
+    width: 55px;
+    height: 55px;
+    left: -29%;
+    font-size: 27px;
+}
+.m-box::before {
+    width: 25px;
+    height: 25px;
+    left: -56px;
+}
+.Roadmap {
+    font-size: 36px;
+}
+.foo img {
+    max-width: 136px;
+}
+.zoom {
+    margin-top: -266px;
+    margin-left: 160px;
+}
+}  
+
+@media (max-width:1200px) {
+.container-fluid {
+    max-width: 1000px;
+}
+ 
+  .my-scrolled-navbar .navbar-nav .nav-item .nav-link {
+        padding: 0 17px 0 0;
+    }
+    .navbar-text a {
+        font-size: 13px;
+    }
+    .my-scrolled-navbar .navbar-brand {
+        width: 25%;
+    }
+    .my-scrolled-navbar .navbar-brand img {
+        width: 100%;
+    }
+#navbarText {
+    width: 100%;
+    z-index: 22;
+}
+
+  .navbar-text {
+        padding-left: 0;
+        padding: 25px 0;
+        width: 100%;
+        text-align: center;
+        font-size: 20px;
+    }
+    .navbar-text a {
+        justify-content: center;
+    }
+
+    .my-scrolled-navbar .navbar-brand {
+        width: 30%;
+    }
+    .evaluate {
+        float: none;
+    }
+    .faq-header h1 {
+        font-size: 45px;
+    }
+    span.navbar-text button a {
+        color: #262626;
+    }
+.bun {
+    padding: 10px 24px;
+    font-size: 14px;
+    margin: 10px;
+}
+
+
+.Elon h2 {
+    font-size: 24px;
+}
+.Elon {
+    padding-top:0px;
+}
+.Elon p {
+    font-size: 13px;
+    padding: 12px 0px 15px 0px;
+}
+.chack {
+    margin-right: 6px;
+}
+.zoom {
+    margin-top: -250px;
+    margin-left: 290px;
+}
+section.third {
+    padding: 100px 0 66px;
+}
+.map img {
+    max-width: 330px;
+}
+.second {
+    padding: 175px 0 300px;
+}
+section#social {
+    padding-top: 20px;
+}
+.sev {
+    width: 100%;
+    max-width: fit-content;
+}
+}
+
+@media (max-width:991px) {
+	 .my-scrolled-navbar .navbar-nav .nav-item .nav-link {
+    font-size: 16px;
+    padding: 14px 0;
+    border-bottom: 1px solid #003358;
+    color: #262626;
+}
+	.container-fluid {
+    max-width: 900px;
+}
+.my-scrolled-navbar .navbar-collapse {
+        position: absolute;
+        top: 99%;
+        background: #8086a3;
+        width: 100%;
+        left: 0;
+        padding: 0px 0;
+        text-align: center;
+        z-index: -1;
+        transition: 0.3s ease-in-out;
+    }
+    .my-scrolled-navbar .navbar-nav .nav-item .nav-link:hover, .my-scrolled-navbar .navbar-nav .nav-item.active .nav-link {
+    color: #fff;
+}
+.header {
+    padding: 80px 0 59px;
+}
+.chack {
+    font-size: 12px;
+    margin-bottom: 15px;
+}
+.chack2 {
+    font-size: 12px;
+}
+.Chart {
+    flex-wrap: wrap;
+}
+
+.First {
+    padding: 50px 0;
+}
+.Value img {
+    max-width: 400px;
+}
+.ulti {
+    font-size: 11px;
+}
+.inn {
+    padding: 15px 15px 10px 15px;
+}
+.commm {
+    font-size: 13px;
+    margin-bottom: 5px;
+}
+.box h3 {
+    font-size: 13px;
+}
+.map img {
+    max-width: 300px;
+}
+.foo img {
+    max-width: 145px;
+    margin: 0 auto 5px;
+}
+.main-d {
+    padding-left: 5%;
+}
+.main-d::before {
+    width: 11px;
+    left: -15px;
+}
+.m-box::before {
+    left: -41px;
+}
+.m-box::after {
+    left: -32%;
+}
+.zoom {
+    margin-top: -293px;
+    margin-left: 149px;
+}
+}
+
+@media (max-width:767px) {
+
+.Value img {
+    max-width: 300px;
+    display: block;
+    margin: 0 auto;
+}
+.avatar {
+    box-sizing: border-box;
+    transform: none;
+    animation: none;
+}
+.star-1 img {
+    width: 100%;
+    max-width: 500px;
+    display: block;
+    margin: 0 auto;
+}
+.main {
+    text-align: end;
+}
+
+.second {
+    background-position: initial;
+    padding: 150px 0px 304px;
+}
+.chal {
+    padding: 7px;
+    text-align: center;
+}
+ul.vodka {
+    list-style: none;
+    display: block;
+    justify-content: center;
+}
+.zoom {
+    display: none;
+}
+.well {
+    display: block;
+}
+.inn {
+    padding: 15px 15px 10px 15px;
+    margin-top: 15px;
+}
+.Elon h2 {
+    font-size: 24px;
+}
+.head {
+    font-size: 36px;
+    padding-bottom: 15px;
+}
+.ulti {
+    font-size: 12px;
+}
+.First {
+    padding: 50px 0 0;
+}
+.main-d::before {
+    width: 8px;
+    left: -1px;
+    display: none;
+}
+.m-box::before {
+    left: -32px;
+    width: 20px;
+    height: 20px;
+    border: 6px solid #113CFC;
+    display: none;
+}
+.m-box ul.con {
+    padding: 15px 0 15px 30px;
+}
+.m-box {
+    max-width: 100%;
+    margin-left: 0;
+}
+.main-d {
+    padding-left: 0;
+}
+.map {
+    padding-right: 0;
+}
+.map img {
+    max-width: 300px;
+    display: block;
+    margin: 0 auto 50px;
+}
+section.third {
+    padding: 0px 0 20px;
+}
+.m-box::after {
+	display: none;
+}
+.Footer {
+    padding: 33px 0 0px;
+}
+.social_list {
+  margin: 2rem auto 0;
+}
+section#social {
+     padding-top: 0px;
+}
+.Roadmap {
+    font-size: 36px;
+    padding: 20px 0;
+}
+.chack {
+    padding: 8px 20px;
+    font-size: 14px;
+}
+.chack2 {
+    padding: 8px 20px;
+    font-size: 12px;
+}
+}
+
+
+
+@media (max-width:375px) {
+	.main-d::before {
+    left: 76px;
+}
+}
